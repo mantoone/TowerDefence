@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>canshoot=1;
+            <string>//// Test ////
+canshoot=1;
 damage=10;
 range=256;
 bulletspeed=10;
